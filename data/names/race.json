@@ -1,0 +1,26 @@
+{
+    "a white person": {
+        "male_names": ["James", "John", "Michael", "David", "Matthew", "Daniel", "Joseph", "Christopher", "Joshua", "Andrew", "Luca", "Mateo", "Dmitri", "Andreas", "Marek", "Nicholas", "Ryan", "Samuel", "Benjamin", "Thomas"],
+        "female_names": ["Mary", "Elizabeth", "Sarah", "Emma", "Grace", "Emily", "Sofia", "Isabella", "Olivia", "Elena", "Charlotte", "Chloe", "Victoria", "Abigail", "Anastasia", "Ines", "Freya", "Rachel", "Rebecca", "Julia"]
+    },
+    "a black person": {
+        "male_names": ["Malik", "Tyrone", "Darius", "Marcus", "Jamal", "Andre", "Lamar", "Terrence", "Marlon", "Darnell", "Maurice", "Jerome", "Kwame", "Kofi", "Chinedu", "Devon", "Trevon", "Isaiah", "Xavier", "Antoine"],
+        "female_names": ["Aaliyah", "Imani", "Jasmine", "Tiana", "Destiny", "Kiara", "Nia", "Shanice", "Tamika", "Latasha", "Ama", "Abena", "Brianna", "Rochelle", "Sierra", "Ayanna", "Monique", "Kadian", "Zaria", "Simone"]
+    },
+    "an east asian": {
+        "male_names": ["Yuki", "Kenji", "Kazuki", "Haruto", "Minho", "Joon", "Hyun", "Seojun", "Wei", "Liang", "Jie", "Hao", "Nguyen", "Phuc", "Khanh", "Bao", "Putra", "Rizal", "Somchai", "Jose"],
+        "female_names": ["Sakura", "Haruka", "Kyoko", "Misaki", "Yuna", "Minji", "Jiwoo", "Seoyeon", "Mei", "Xiao", "Lian", "Hui", "Mai", "Thuy", "Linh", "Ngoc", "Dewi", "Siti", "Kanya", "Maria"]
+    },
+    "a south asian": {
+        "male_names": ["Arjun", "Rahul", "Vikram", "Rohan", "Karan", "Siddharth", "Amit", "Nikhil", "Sunil", "Abhishek", "Imran", "Faizan", "Tanvir", "Wasim", "Mahmud", "Naveed", "Dinesh", "Sanjay", "Binod", "Dipesh"],
+        "female_names": ["Priya", "Anjali", "Neha", "Pooja", "Deepa", "Kavita", "Ritika", "Lakshmi", "Simran", "Shruti", "Ayesha", "Fatima", "Nusrat", "Sharmin", "Samira", "Shabnam", "Nimali", "Dilani", "Sita", "Manisha"]
+    },
+    "a middle eastern": {
+        "male_names": ["Omar", "Ali", "Hassan", "Ibrahim", "Tariq", "Khaled", "Samir", "Youssef", "Amir", "Fadi", "Reza", "Arash", "Emre", "Zayd", "Walid", "Farid", "Adnan", "Jamal", "Karim", "Mustafa"],
+        "female_names": ["Layla", "Fatima", "Nour", "Rana", "Salma", "Dina", "Hala", "Mona", "Amal", "Yasmin", "Shirin", "Maryam", "Aylin", "Jumana", "Hanadi", "Leen", "Sahar", "Ghada", "Elif", "Bushra"]
+    },
+    "a hispanic": {
+        "male_names": ["José", "Luis", "Carlos", "Juan", "Miguel", "Pedro", "Diego", "Javier", "Andrés", "Francisco", "Ricardo", "Mateo", "Fernando", "Alejandro", "Túpac", "Nahuel", "Santiago", "Yandel", "Hector", "Eduardo"],
+        "female_names": ["María", "Ana", "Lucía", "Carmen", "Isabel", "Sofía", "Elena", "Gabriela", "Laura", "Patricia", "Xiomara", "Itzel", "Verónica", "Rosa", "Daniela", "Yessenia", "Claudia", "Beatriz", "Mayra", "Natalia"]
+    }
+}

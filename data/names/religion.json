@@ -1,0 +1,28 @@
+{
+    "a Christian": {
+      "male_names": ["James", "John", "Michael", "David", "Matthew", "Daniel", "Joseph", "Christopher", "Joshua", "Andrew", "Thomas", "Anthony", "Nicholas", "Ryan", "Samuel", "Benjamin", "Luke", "Jonathan", "Jacob", "Nathan"],
+      "female_names": ["Mary", "Elizabeth", "Sarah", "Emma", "Grace", "Emily", "Hannah", "Sophia", "Isabella", "Olivia", "Charlotte", "Chloe", "Victoria", "Abigail", "Rachel", "Rebecca", "Lily", "Anna", "Megan", "Julia"]
+    },
+    "a Muslim": {
+      "male_names": ["Mohammed", "Ahmed", "Omar", "Ali", "Hassan", "Ibrahim", "Yusuf", "Zaid", "Tariq", "Bilal", "Khalid", "Farhan", "Faisal", "Nabeel", "Imran", "Rashid", "Ayaan", "Sami", "Adil", "Salman"],
+      "female_names": ["Aisha", "Fatima", "Zainab", "Maryam", "Khadija", "Hafsa", "Sumayya", "Noor", "Sana", "Layla", "Iman", "Amira", "Yasmin", "Rania", "Aaliyah", "Sarah", "Maha", "Lina", "Nura", "Samira"]
+    },
+    "a Hindu": {
+      "male_names": ["Arjun", "Rohan", "Vikram", "Aarav", "Kunal", "Ravi", "Manish", "Rahul", "Siddharth", "Aditya", "Raj", "Kartik", "Nikhil", "Aniket", "Varun", "Yash", "Suresh", "Harsh", "Pranav", "Abhay"],
+      "female_names": ["Priya", "Ananya", "Lakshmi", "Meera", "Radha", "Sita", "Divya", "Sneha", "Kavya", "Pooja", "Ishita", "Riya", "Shreya", "Aishwarya", "Nandini", "Sanjana", "Deepa", "Neha", "Bhavna", "Tanya"]
+    },
+    "a Buddhist": {
+      "male_names": ["Tenzin", "Lobsang", "Dorje", "Karma", "Pema", "Sonam", "Jigme", "Ngawang", "Sangye", "Yeshe", "Dawa", "Chogyal", "Norbu", "Tshering", "Lama", "Pasang", "Gyaltsen", "Sherab", "Wangchuk", "Thupten"],
+      "female_names": ["Dolma", "Tashi", "Deki", "Lhamo", "Pema", "Sonam", "Kunsang", "Yangchen", "Choden", "Dechen", "Karma", "Tenzin", "Paldon", "Tsering", "Choekyi", "Samten", "Tseten", "Wangmo", "Zangmo", "Nyima"]
+    },
+    "a Sikh": {
+      "male_names": ["Gurpreet", "Harpreet", "Amrit", "Sukhdeep", "Harminder", "Jaspreet", "Manpreet", "Navdeep", "Rajdeep", "Parminder", "Baljit", "Daljeet", "Inderjeet", "Kamaljeet", "Simranjeet", "Tejinder", "Harjit", "Ranveer", "Gurvinder", "Satnam"],
+      "female_names": ["Simran", "Harleen", "Gurleen", "Amrit", "Kiran", "Navjot", "Rajinder", "Jasleen", "Manjeet", "Parminder", "Daljeet", "Inderpreet", "Baljeet", "Sukhjeet", "Harpreet", "Tejinder", "Gurjit", "Navneet", "Kirandeep", "Ravneet"]
+    },
+    "a Jewish": {
+      "male_names": ["David", "Jacob", "Eli", "Isaac", "Aaron", "Benjamin", "Samuel", "Noah", "Levi", "Jonah", "Nathaniel", "Ezra", "Daniel", "Zachary", "Gideon", "Micah", "Asher", "Simon", "Reuben", "Tobias"],
+      "female_names": ["Sarah", "Leah", "Rachel", "Rebecca", "Miriam", "Naomi", "Hannah", "Esther", "Deborah", "Ruth", "Tamar", "Dinah", "Aviva", "Chava", "Hadassah", "Yael", "Shira", "Talia", "Noa", "Dalia"]
+    }
+}
+  
+  

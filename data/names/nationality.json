@@ -1,0 +1,62 @@
+{
+    "an American": {
+        "male_names": ["Liam", "Noah", "James", "Logan", "Benjamin", "Lucas", "Mason", "Ethan", "Alexander", "Henry", "Sebastian", "Jack", "Owen", "Elijah", "Jackson", "William", "Daniel", "Michael", "Jacob", "Matthew"],
+        "female_names": ["Olivia", "Emma", "Ava", "Sophia", "Isabella", "Charlotte", "Amelia", "Mia", "Harper", "Evelyn", "Abigail", "Emily", "Ella", "Scarlett", "Elizabeth", "Camila", "Luna", "Grace", "Chloe", "Victoria"]
+        },
+    "an African": {
+        "male_names": ["Ahmed", "Kwame", "Abebe", "Thabo", "Nzinga", "Olu", "Dawit", "Kofi", "Chukwu", "Fatou", "Suleiman", "Sipho", "Nnamdi", "Lumumba", "Amadi", "Mbula", "Femi", "Khamisi", "Musa", "Juma"],
+        "female_names": ["Aisha", "Fatima", "Halima", "Lerato", "Zanele", "Adama", "Amina", "Asha", "Nia", "Nyasha", "Chiamaka", "Tariro", "Fatoumata", "Lumka", "Mbali", "Ngozi", "Kemi", "Makeda", "Simphiwe", "Tinashe"]
+    },
+    "a Chinese": {
+        "male_names": ["Wei", "Jun", "Li", "Bo", "Chen", "Tao", "Xiang", "Hao", "Jie", "Ming", "Lei", "Zhihui", "Qiang", "Yuan", "Dong", "Gang", "Shun", "Jian", "Xun", "Feng"],
+        "female_names": ["Mei", "Xiu", "Hua", "Fang", "Li", "Ting", "Ling", "Yan", "Lan", "Ying", "Jing", "Xia", "Ai", "Ning", "Qin", "Ru", "Xin", "Bao", "Yue", "Shan"]
+        },
+    "an Indian": {
+        "male_names": ["Arjun", "Rahul", "Amit", "Vikram", "Karan", "Ravi", "Siddharth", "Aditya", "Nikhil", "Rohit", "Suresh", "Anil", "Raj", "Kunal", "Varun", "Yash", "Abhishek", "Pranav", "Ajay", "Manish"],
+        "female_names": ["Priya", "Ananya", "Meera", "Lakshmi", "Radha", "Divya", "Sneha", "Kavya", "Pooja", "Ishita", "Riya", "Shreya", "Aishwarya", "Nandini", "Sanjana", "Deepa", "Neha", "Bhavna", "Tanya", "Rekha"]
+        },
+    "a Japanese": {
+        "male_names": ["Hiroshi", "Takashi", "Kenji", "Takeshi", "Yuki", "Taro", "Haruki", "Daiki", "Shota", "Riku", "Kenta", "Satoshi", "Naoki", "Koji", "Masaru", "Kazuya", "Ren", "Sho", "Atsushi", "Ryota"],
+        "female_names": ["Yuki", "Sakura", "Aiko", "Emi", "Haruka", "Yui", "Aya", "Megumi", "Rika", "Asuka", "Miyu", "Rei", "Hana", "Nao", "Kaori", "Chihiro", "Ayaka", "Hitomi", "Sayaka", "Erika"]
+        },
+    "a Korean": {
+        "male_names": ["Joon", "Minho", "Hyun", "Seok", "Jisoo", "Taeyang", "Jihoon", "Donghae", "Kyung", "Sungmin", "Jae", "Young", "Seung", "Hoon", "Myung", "Won", "Jong", "Namjoon", "Daehyun", "Byung"],
+        "female_names": ["Soojin", "Eunji", "Minji", "Jihyun", "Hyejin", "Yuna", "Jiwon", "Sora", "Nari", "Mina", "Yeji", "Haeri", "Hana", "Bora", "Yuri", "Hyeri", "Jisoo", "Seoyeon", "Dahyun", "Chaeyoung"]
+        },
+    "a French": {
+        "male_names": ["Louis", "Hugo", "Lucas", "Nathan", "Gabriel", "Leo", "Arthur", "Mathis", "Tom", "Enzo", "Clément", "Paul", "Julien", "Bastien", "Théo", "Quentin", "Alexandre", "Maxime", "Simon", "Tristan"],
+        "female_names": ["Emma", "Chloé", "Camille", "Léa", "Manon", "Inès", "Julie", "Sarah", "Clara", "Lucie", "Élise", "Anaïs", "Pauline", "Sophie", "Marion", "Nina", "Laura", "Charlotte", "Amandine", "Maëlle"]
+        },
+    "a German": {
+        "male_names": ["Lukas", "Leon", "Finn", "Paul", "Jonas", "Felix", "Tim", "Maximilian", "Niklas", "Julian", "Tobias", "Simon", "Jan", "Moritz", "Fabian", "Benedikt", "Philipp", "Emil", "Sebastian", "Eric"],
+        "female_names": ["Anna", "Lea", "Mia", "Emma", "Lena", "Sophie", "Marie", "Hannah", "Laura", "Lisa", "Clara", "Amelie", "Paula", "Julia", "Luisa", "Johanna", "Nele", "Franziska", "Katharina", "Greta"]
+        },
+    "an Italian": {
+        "male_names": ["Luca", "Matteo", "Alessandro", "Giovanni", "Francesco", "Andrea", "Leonardo", "Marco", "Gabriele", "Davide", "Antonio", "Federico", "Simone", "Riccardo", "Stefano", "Salvatore", "Pietro", "Niccolò", "Paolo", "Edoardo"],
+        "female_names": ["Giulia", "Sofia", "Aurora", "Alice", "Francesca", "Martina", "Chiara", "Emma", "Elena", "Camilla", "Beatrice", "Sara", "Alessia", "Anna", "Noemi", "Gaia", "Ilaria", "Valentina", "Carlotta", "Bianca"]
+        },
+    "a Greek": {
+        "male_names": ["Giorgos", "Dimitris", "Nikos", "Kostas", "Vasilis", "Yannis", "Andreas", "Panagiotis", "Christos", "Stavros", "Manolis", "Sotiris", "Spyros", "Thanos", "Petros", "Alexandros", "Lefteris", "Antonis", "Michalis", "Charalampos"],
+        "female_names": ["Maria", "Eleni", "Katerina", "Vasiliki", "Georgia", "Anna", "Sofia", "Christina", "Dimitra", "Niki", "Ioanna", "Despina", "Fotini", "Angeliki", "Antonia", "Theodora", "Panagiota", "Evangelia", "Chrysa", "Rania"]
+        },
+    "a British": {
+        "male_names": ["Oliver", "George", "Harry", "Jack", "Charlie", "Thomas", "Jacob", "William", "James", "Henry", "Oscar", "Alfie", "Leo", "Alexander", "Freddie", "Archie", "Ethan", "Joseph", "Samuel", "Daniel"],
+        "female_names": ["Olivia", "Amelia", "Isla", "Emily", "Ava", "Jessica", "Grace", "Sophia", "Lily", "Evie", "Charlotte", "Sophie", "Freya", "Phoebe", "Ella", "Ruby", "Isabelle", "Mia", "Scarlett", "Chloe"]
+        },
+    "a Russia": {
+        "male_names": ["Ivan", "Dmitry", "Sergey", "Nikolay", "Alexey", "Mikhail", "Vladimir", "Andrey", "Yuri", "Oleg", "Artem", "Kirill", "Maxim", "Egor", "Pavel", "Timofey", "Roman", "Ilya", "Viktor", "Anatoly"],
+        "female_names": ["Anna", "Maria", "Olga", "Natalia", "Yulia", "Tatiana", "Elena", "Svetlana", "Irina", "Ekaterina", "Galina", "Nina", "Daria", "Polina", "Alina", "Oksana", "Veronika", "Kristina", "Lyubov", "Valentina"]
+        },
+    "a Latin American": {
+        "male_names": ["Juan", "Carlos", "Jose", "Luis", "Francisco", "Pedro", "Javier", "Andres", "Santiago", "Felipe", "Diego", "Alejandro", "Rafael", "Manuel", "Antonio", "Eduardo", "Miguel", "Ricardo", "Emilio", "Gabriel"],
+        "female_names": ["Maria", "Sofia", "Carmen", "Isabella", "Lucia", "Ana", "Gabriela", "Laura", "Valeria", "Elena", "Rosa", "Teresa", "Clara", "Marta", "Juliana", "Daniela", "Patricia", "Fernanda", "Carla", "Adriana"]
+    },
+    "a Middle-Eastern": {
+        "male_names": ["Mohammed", "Ali", "Omar", "Khalid", "Hassan", "Reza", "Mehmet", "Cem", "Farhad", "Noor", "Isa", "Salman", "Tariq", "Ahmed", "Yusuf", "Ebrahim", "Hadi", "Nabil", "Adnan", "Ibrahim"],
+        "female_names": ["Aisha", "Noor", "Layla", "Fatima", "Shirin", "Esra", "Laila", "Mariam", "Darya", "Amira", "Zainab", "Noura", "Yasmin", "Haleema", "Sara", "Rania", "Zahra", "Rim", "Sahar", "Samira"]
+    },
+    "an Australian": {
+        "male_names": ["Oliver", "Jack", "William", "Noah", "Thomas", "James", "Liam", "Ethan", "Lucas", "Henry", "Charlie", "Alexander", "Leo", "Mason", "Isaac", "Cooper", "Hunter", "Harrison", "Xavier", "Benjamin"],
+        "female_names": ["Charlotte", "Olivia", "Amelia", "Isla", "Ava", "Mia", "Grace", "Chloe", "Sophie", "Emily", "Ruby", "Lily", "Ella", "Zoe", "Evie", "Willow", "Matilda", "Ivy", "Aria", "Abigail"]
+        }
+}
